@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_top_single_line">8dp</dimen>
+    <dimen name="padding_left_single_line">16dp</dimen>
+    <dimen name="padding_right_single_line">16dp</dimen>
+</resources>

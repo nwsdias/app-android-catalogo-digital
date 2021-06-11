@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Drogaria Sutil</string>
+    <string name="title_produtos">Produtos</string>
+    <string name="title_inicio">Início</string>
+    <string name="title_toolbar_categoria">Categorias</string>
+    <string name="title_toolbar_produto">Produto</string>
+    <string name="title_app_bar_search">Buscar</string>
+    <string name="title_toolbar_drogaria">Drogaria Sutil</string>
+    <string name="title_toolbar_medicamentos">Medicamentos</string>
+    <string name="title_toolbar_atendimento">Atendimento</string>
+    <string name="title_toolbar_local">Local</string>
+    <string name="title_toolbar_genericos">Genéricos</string>
+    <string name="title_toolbar_ofertas">Ofertas</string>
+    <string name="title_toolbar_infantil">Infantil</string>
+    <string name="title_toolbar_beleza">Beleza</string>
+    <string name="tv_titulo">Drogaria Sutil</string>
+    <string name="tv_horario">Horário de atendimento: segunda à sábado das 07:00 às 19:00.</string>
+    <string name="tv_endereco">Avenida Miguel Sutil, 12345 - Cidade Alta - Cuiabá/MT</string>
+    <string name="tv_telefone">Telefone: (65) 3123-1234</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_toolbar_sobre">Sobre</string>
+    <string name="item_menu_local">Local</string>
+    <string name="item_sobre">Sobre</string>
+    <string name="item_local">Local</string>
+    <string name="tv_nome_app">Drogaria Sutil</string>
+    <string name="tv_versao">Versão 1.0</string>
+</resources>
