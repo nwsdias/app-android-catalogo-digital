@@ -1,4 +1,4 @@
-# Catálogo Digital - App Android Java, Web Service Restful Node.js e XAMPP
+# Catálogo Digital - App Android Java, Web Service Restful, Node.js e XAMPP
 
 ## Screenshots
 
